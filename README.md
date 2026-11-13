@@ -41,6 +41,3 @@ A console-based ATM Machine simulation built with Python using Object-Oriented P
 * **Default PIN:** `1234`
 * **Initial Balance:** `$1000.00`
 
-## Author
-
-* **[Your Name]** – Python Developer Intern at OctaNet Services Pvt Ltd
